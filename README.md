@@ -4,7 +4,7 @@ Usage
 You need git and node.js on your computer before running.
 
     git clone https://github.com/badboysm890/HtmlSassJS-Webpack-BoilerPlate.git
-    cd your-project-name && rm -rf .git
+    cd HtmlSassJS-Webpack-BoilerPlate && rm -rf .git
     npm install
     npm start
 
